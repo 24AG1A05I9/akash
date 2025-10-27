@@ -1,4 +1,4 @@
-import java.util.*;
+Dimport java.util.*;
 class Pattern1{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
@@ -12,4 +12,5 @@ class Pattern1{
 		}
 
 	}
+
 }
