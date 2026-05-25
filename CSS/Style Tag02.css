@@ -1,0 +1,32 @@
+           <!-- COLOR PROPETY AND BACKGROUND PROPERY-->
+        H1{
+         
+            color: red;
+            background-color: rgb(168, 14, 234);
+        }
+        h2{
+            color: rgb(255,0,0);
+        }
+        h3{
+            color: rgb(255, 255, 0);
+        }
+        h4{
+            color: rgb(255, 0, 255);
+        }
+        h5{
+            color: #ffffff;
+            color: #0000ff;
+        }
+        p{
+            color: green;
+            color: rgb(0, 255, 0);
+            background-color: whitesmoke;
+        }
+        button{
+            color: blue;
+            color: rgb(0,0, 255);
+            background-color: black;
+        }
+
+        
+

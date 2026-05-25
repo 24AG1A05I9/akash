@@ -1,0 +1,35 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:white;
+}
+h3{
+    color: pink;
+}
+h1{
+    color:red;
+}
+#login{
+    background-color: white;
+
+}
+#signup{
+    color: red;
+}
+
+/* decendant selectors */
+div p{
+    color: red;
+    background-color: yellow;
+}
+p +h3{
+    text-decoration: underline;
+}
+input[type="text"]{
+    color: red;
+}
+input[type="password"]{
+    color: green;
+}
+input[type]{
+    background-color:whitesmoke;
+}
